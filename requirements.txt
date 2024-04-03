@@ -1,0 +1,10 @@
+python-dotenv
+Django
+fastapi
+pydantic
+uvicorn
+psycopg2
+aiohttp
+requests
+pillow
+python-multipart
